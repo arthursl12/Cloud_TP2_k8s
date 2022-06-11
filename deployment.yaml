@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: american-predictor
-        image: arthursl12/american_tweet_predictor:0.5
+        image: arthursl12/american_tweet_predictor:0.6
         ports:
         - containerPort: 5002
